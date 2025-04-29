@@ -9,6 +9,8 @@
 Welcome to my Portfolio repository! This is a modern and responsive portfolio website showcasing my skills, projects, and achievements. Built with ❤️ using HTML, CSS, and JavaScript, 
 and deployed on Netlify for seamless accessibility.
 
+✨ **Live Demo:** [(https://sanjith-portfolio.netlify.app)](https://sanjithkumarhr.netlify.app/)
+
 # 🚀 Features
 Responsive Design: Works flawlessly on all devices (desktop, tablet, mobile).
 Interactive Animations: Smooth transitions and hover effects for a dynamic user experience.
